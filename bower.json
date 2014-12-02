@@ -1,0 +1,17 @@
+{
+    "author": {
+        "name": "https://github.com/dsbaars/angular-bootstrap-datepicker"
+    },
+    "name": "angular-bootstrap",
+    "keywords": [
+        "angular",
+        "angular-ui",
+        "bootstrap"
+    ],
+    "description": "Native AngularJS (Angular) directives for Bootstrap.",
+    "version": "0.13.0-SNAPSHOT",
+    "main": ["dist/ui-bootstrap-tpls-0.13.0-SNAPSHOT.js"],
+    "dependencies": {
+        "angular": ">=1 <1.4.0"
+    }
+}
