@@ -1,0 +1,17 @@
+{
+    "author": {
+        "name": "https://github.com/dsbaars/angular-ui-bootstrap"
+    },
+    "name": "angular-bootstrap",
+    "keywords": [
+        "angular",
+        "angular-ui",
+        "bootstrap"
+    ],
+    "description": "Native AngularJS (Angular) directives for Bootstrap.",
+    "version": "0.12.0-FIX",
+    "main": ["dist/ui-bootstrap-0.12.0.min.js"],
+    "dependencies": {
+        "angular": ">=1 <1.4.0"
+    }
+}
